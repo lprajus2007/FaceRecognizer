@@ -10,7 +10,7 @@ Make sure these extensions to Python are installed before running the code!
 
 The directory structure is as follows:
 
-50097219_Project1
+FaceRecognizer
 |
 |
 ----- data
