@@ -1,12 +1,13 @@
 ###########################################################################
 ##################################README###################################
 ###########################################################################
-Created by: Satya Lakshmipathi Raju Sampathirao
-UB Person #: 50097219
+Created by: Satya Sampathirao
 UBIT Name: satyalak
 
 Libraries used: Numpy 1.8.0, Matplotlib 1.3.1
 Make sure these extensions to Python are installed before running the code!
+This has been tested on Python 3.x
+Not tested on 2.x and I do not guarantee that the code works in any other version other than Python 3.4
 
 The directory structure is as follows:
 
@@ -24,8 +25,8 @@ FaceRecognizer
 Navigate to the main folder and run eigenfaces.py and fisherfaces.py using the 
 following command:
 
-50087219_Project1\main> python eigenfaces.py
-50087219_Project1\main> python fisherfaces.py
+~\main> python eigenfaces.py
+~\main> python fisherfaces.py
 
 When prompted to enter N value enter 3, 5 or 7. That's it !
 
